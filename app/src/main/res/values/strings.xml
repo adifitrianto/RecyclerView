@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">List Makanan</string>
+    <string-array name="listMakanan">
+        <item>Nasi Goreng</item>
+        <item>Rendang</item>
+        <item>Sate</item>
+    </string-array>
+
+    <string-array name="description">
+        <item>Resep Nasi Goreng</item>
+        <item>Resep Rendang</item>
+        <item>Resep Sate</item>
+    </string-array>
+
+</resources>
